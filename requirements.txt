@@ -1,0 +1,8 @@
+streamlit
+numpy
+matplotlib
+scikit-learn
+jax
+numpyro
+sympy
+altair<5 

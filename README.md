@@ -1,0 +1,1 @@
+This repository contains the necessary code to create a Streamlit application that visualizes the fit obtained through Bayesian linear regression for various prior settings. The application is hosted on the Hugging Face model hub at https://huggingface.co/spaces/haikookhandor/Bayesian-Linear-Reg.
